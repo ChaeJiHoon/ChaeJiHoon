@@ -1,5 +1,5 @@
 ## Welcome to JiHoon Github 👋
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome to JiHoon Github&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice)
 
 <!--
 **ChaeJiHoon/ChaeJiHoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
