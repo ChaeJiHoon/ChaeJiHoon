@@ -1,4 +1,3 @@
-## Welcome to JiHoon Github 
 ![header](https://capsule-render.vercel.app/api?type=transparent&text=Welcome%20to%20JiHoon%20Github👋&fontSize=50)
 
 <!--
