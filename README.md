@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 🏃 JiHoon ⚽
-![Static Badge](https://img.shields.io/badge/181717-git-black?style=flat)
+![Static Badge](https://img.shields.io/badge/#181717-git-black?style=flat)
