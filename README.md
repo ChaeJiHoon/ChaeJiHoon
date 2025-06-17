@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🏃 JiHoon ⚽
+![Static Badge](https://img.shields.io/badge/181717-git-black?style=flat)
