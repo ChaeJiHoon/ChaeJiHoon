@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 🏃 JiHoon ⚽
-![Static Badge](https://img.shields.io/badge/#181717-git-black?style=flat)
+ <a href="[링크](https://github.com/ChaeJiHoon/ChaeJiHoon)"><img src="https://img.shields.io/badge/Github-171515?style=flat-square&logo=Github&logoColor=white"/></a>
