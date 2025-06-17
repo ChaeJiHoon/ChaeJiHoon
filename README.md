@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 🏃 JiHoon ⚽
 
  <a href="https://github.com/ChaeJiHoon/ChaeJiHoon"><img src="https://img.shields.io/badge/Github-171515?style=flat-square&logo=Github&logoColor=white"/></a>
+ <a href="https://hooncoding.tistory.com/"><img src="https://img.shields.io/badge/티스토리-FF7F00?style=flat-square&logo=티스토리&logoColor=white"/></a>
