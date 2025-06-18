@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 🛠️ Tools 🛠️
 
-<img src="https://img.shields.io/badge/intellij-000000?style=flat&logo=intellijidea&logoColor=white"/>
+<a><img src="https://img.shields.io/badge/intellij-000000?style=flat&logo=intellijidea&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=Firebase&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
