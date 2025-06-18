@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 
  📝 Study ✏️
  
- <img src="https://img.shields.io/badge/Github-171515?style=flat-square&logo=Java&logoColor=green"/></a>
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
