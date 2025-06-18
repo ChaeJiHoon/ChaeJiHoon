@@ -39,4 +39,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white"/>
 
 [![[Solved.ac
-프로필](https://solved.ac/profile/cjh0420)](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+프로필]](http://mazassumnida.wtf/api/v2/generate_badge?boj=cjh0420)](https://solved.ac/cjh0420)
