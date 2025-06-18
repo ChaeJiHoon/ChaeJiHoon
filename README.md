@@ -21,3 +21,8 @@ Here are some ideas to get you started:
  <a href="https://hooncoding.tistory.com/"><img src="https://img.shields.io/badge/티스토리-FF7F00?style=flat-square&logo=Tistory&logoColor=white"/></a>
  <a href="https://www.notion.so/JiHoon-Chae-9a7e7b3a995d4b81ae0c34924a3b8291?source=copy_link"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
  <a href="https://www.linkedin.com/in/%EC%A7%80%ED%9B%88-%EC%B1%84-214a74316/"><img src="https://img.shields.io/badge/LinkedIn-003DF8?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+
+
+ 📝 Study ✏️
+ 
+ <img src="https://img.shields.io/badge/Github-171515?style=flat-square&logo=Java&logoColor=green"/></a>
