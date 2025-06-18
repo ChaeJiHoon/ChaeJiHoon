@@ -22,8 +22,6 @@ Here are some ideas to get you started:
  <a href="https://www.notion.so/JiHoon-Chae-9a7e7b3a995d4b81ae0c34924a3b8291?source=copy_link"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
  <a href="https://www.linkedin.com/in/%EC%A7%80%ED%9B%88-%EC%B1%84-214a74316/"><img src="https://img.shields.io/badge/LinkedIn-003DF8?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 
-
-
  📝 Study ✏️
  
 <a><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"></a>
@@ -32,8 +30,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/YOLO-111F68?style=flat&logo=YOLO&logoColor=white"/>
 
-
-
 🛠️ Tools 🛠️
 
 <a><img src="https://img.shields.io/badge/intellij-000000?style=flat&logo=intellijidea&logoColor=white"/></a>
@@ -41,6 +37,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white"/>
+
+
+<a href="https://github.com/ChaeJiHoon"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseondal&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
 
 
 
