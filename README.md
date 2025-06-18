@@ -29,7 +29,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/YOLO-111F68?style=flat&logo=YOLO&logoColor=white"/>
-
 🛠️ Tools 🛠️
 
 <a><img src="https://img.shields.io/badge/intellij-000000?style=flat&logo=intellijidea&logoColor=white"/></a>
