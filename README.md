@@ -38,4 +38,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white"/>
 
-[![https://solved.ac/profile/cjh0420](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+[!https://solved.ac/profile/cjh0420(http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
