@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&text=Welcome%20to%20JiHoon%20Github👋&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&text=Welcome%20to%20JiHoon%20Github👋&fontSize=50)
 
 <!--
 **ChaeJiHoon/ChaeJiHoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
