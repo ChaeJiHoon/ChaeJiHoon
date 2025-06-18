@@ -43,7 +43,5 @@ Here are some ideas to get you started:
 
 [![[Solved.ac
 프로필]](http://mazassumnida.wtf/api/v2/generate_badge?boj=cjh0420)](https://solved.ac/cjh0420)
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChaeJiHoon&layout=compact&theme=dark)
 
