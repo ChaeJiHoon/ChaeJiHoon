@@ -31,9 +31,9 @@
 
 ### 📁 Projects
 
-- [Spring Login/Board/Message](https://github.com/ChaeJiHoon/Spring-Login-Board-Message)
-- [Java OpenCV CCTV](https://github.com/ChaeJiHoon/OpenCV-CCTV-Java)
-- [Algorithm Study](https://github.com/ChaeJiHoon/Algorithm-Study)
+- [자바, 스프링 공부 프로젝트](https://github.com/ChaeJiHoon/Spring-Login-Board-Message)
+- [토마토 인공수분 자동화 로봇 시스템](https://github.com/ChaeJiHoon/Tomato-Artificial-Pollination-Robot-System/tree/main)
+- [백준, 프로그래머스 알고리즘 기록](https://github.com/ChaeJiHoon/algorithmStudy)
 
 ---
 
