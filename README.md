@@ -40,7 +40,8 @@
 ### 📊 Stats
 
 <p align="center">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cjh0420"/>
+  <a href="https://solved.ac/profile/cjh0420"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cjh0420"/></a>
+  <a href="https://solved.ac/profile/cjh0420"><img src="http://mazandi.herokuapp.com/api?handle=cjh0420&theme=dark"/></a>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaeJiHoon&layout=compact&theme=dark"/>
   <br/>
